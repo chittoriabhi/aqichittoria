@@ -1,4 +1,4 @@
-# AIR-QUALITY-INDEX-PREDICTOR
+# AIR QUALITY INDEX PREDICTOR
 
 
 ## What is Air Quality Index?
@@ -59,7 +59,7 @@ Maximum accurary was achieved by RandomForestRegressor. Created a pickle file fo
 
 refer to the below link -
 
-https://github.com/rohit719/AIR-QUALITY-INDEX-PREDICTOR-DEPLOYMENT
+https://github.com/chittoriabhi/aqideployment
 
 
 
